@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804833464215",
+    "project_id": "saymii",
+    "storage_bucket": "saymii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804833464215:android:c9f1ca22959ca4a8847ed2",
+        "android_client_info": {
+          "package_name": "com.example.saymii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJpJM6tWWlfLqFdLhbhAZDi1j6i9WeI3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
